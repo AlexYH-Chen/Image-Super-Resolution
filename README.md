@@ -5,7 +5,7 @@
 
 + Team members
 	+ Izzy Beers ib2392
-	+ Alexander Chen yc3528
+	+ Yen-Hsiang Chen (Alexander Chen) yc3528
 	+ Yimeng Qiu yq2231
 	+ Binhan Wang bw2544
 	+ Yaxin Wang yw3042
